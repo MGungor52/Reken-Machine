@@ -1,0 +1,48 @@
+C:\Users\Muham\Desktop\School Projecten\Level 4\reken machine\Reken Machine\bin\Debug\Reken Machine.exe.config
+C:\Users\Muham\Desktop\School Projecten\Level 4\reken machine\Reken Machine\bin\Debug\Reken Machine.exe
+C:\Users\Muham\Desktop\School Projecten\Level 4\reken machine\Reken Machine\bin\Debug\Reken Machine.pdb
+C:\Users\Muham\Desktop\School Projecten\Level 4\reken machine\Reken Machine\obj\Debug\Reken Machine.csproj.AssemblyReference.cache
+C:\Users\Muham\Desktop\School Projecten\Level 4\reken machine\Reken Machine\obj\Debug\Reken Machine.csproj.SuggestedBindingRedirects.cache
+C:\Users\Muham\Desktop\School Projecten\Level 4\reken machine\Reken Machine\obj\Debug\MainWindow.g.cs
+C:\Users\Muham\Desktop\School Projecten\Level 4\reken machine\Reken Machine\obj\Debug\App.g.cs
+C:\Users\Muham\Desktop\School Projecten\Level 4\reken machine\Reken Machine\obj\Debug\Reken Machine_MarkupCompile.cache
+C:\Users\Muham\Desktop\School Projecten\Level 4\reken machine\Reken Machine\obj\Debug\Reken Machine_MarkupCompile.lref
+C:\Users\Muham\Desktop\School Projecten\Level 4\reken machine\Reken Machine\obj\Debug\MainWindow.baml
+C:\Users\Muham\Desktop\School Projecten\Level 4\reken machine\Reken Machine\obj\Debug\Reken Machine.g.resources
+C:\Users\Muham\Desktop\School Projecten\Level 4\reken machine\Reken Machine\obj\Debug\Reken_Machine.Properties.Resources.resources
+C:\Users\Muham\Desktop\School Projecten\Level 4\reken machine\Reken Machine\obj\Debug\Reken Machine.csproj.GenerateResource.cache
+C:\Users\Muham\Desktop\School Projecten\Level 4\reken machine\Reken Machine\obj\Debug\Reken Machine.csproj.CoreCompileInputs.cache
+C:\Users\Muham\Desktop\School Projecten\Level 4\reken machine\Reken Machine\obj\Debug\Reken Machine.exe
+C:\Users\Muham\Desktop\School Projecten\Level 4\reken machine\Reken Machine\obj\Debug\Reken Machine.pdb
+C:\Users\Muham\Desktop\School Projecten\Level 4\reken machine\bin\Debug\Reken Machine.exe.config
+C:\Users\Muham\Desktop\School Projecten\Level 4\reken machine\bin\Debug\Reken Machine.exe
+C:\Users\Muham\Desktop\School Projecten\Level 4\reken machine\bin\Debug\Reken Machine.pdb
+C:\Users\Muham\Desktop\School Projecten\Level 4\reken machine\obj\Debug\Reken Machine.csproj.AssemblyReference.cache
+C:\Users\Muham\Desktop\School Projecten\Level 4\reken machine\obj\Debug\Reken Machine.csproj.SuggestedBindingRedirects.cache
+C:\Users\Muham\Desktop\School Projecten\Level 4\reken machine\obj\Debug\MainWindow.g.cs
+C:\Users\Muham\Desktop\School Projecten\Level 4\reken machine\obj\Debug\App.g.cs
+C:\Users\Muham\Desktop\School Projecten\Level 4\reken machine\obj\Debug\Reken Machine_MarkupCompile.cache
+C:\Users\Muham\Desktop\School Projecten\Level 4\reken machine\obj\Debug\Reken Machine_MarkupCompile.lref
+C:\Users\Muham\Desktop\School Projecten\Level 4\reken machine\obj\Debug\MainWindow.baml
+C:\Users\Muham\Desktop\School Projecten\Level 4\reken machine\obj\Debug\Reken Machine.g.resources
+C:\Users\Muham\Desktop\School Projecten\Level 4\reken machine\obj\Debug\Reken_Machine.Properties.Resources.resources
+C:\Users\Muham\Desktop\School Projecten\Level 4\reken machine\obj\Debug\Reken Machine.csproj.GenerateResource.cache
+C:\Users\Muham\Desktop\School Projecten\Level 4\reken machine\obj\Debug\Reken Machine.csproj.CoreCompileInputs.cache
+C:\Users\Muham\Desktop\School Projecten\Level 4\reken machine\obj\Debug\Reken Machine.exe
+C:\Users\Muham\Desktop\School Projecten\Level 4\reken machine\obj\Debug\Reken Machine.pdb
+C:\Users\Muham\Desktop\School Projecten\Level 4\reken machine - repository\reken machine\bin\Debug\Reken Machine.exe.config
+C:\Users\Muham\Desktop\School Projecten\Level 4\reken machine - repository\reken machine\bin\Debug\Reken Machine.exe
+C:\Users\Muham\Desktop\School Projecten\Level 4\reken machine - repository\reken machine\bin\Debug\Reken Machine.pdb
+C:\Users\Muham\Desktop\School Projecten\Level 4\reken machine - repository\reken machine\obj\Debug\Reken Machine.csproj.AssemblyReference.cache
+C:\Users\Muham\Desktop\School Projecten\Level 4\reken machine - repository\reken machine\obj\Debug\Reken Machine.csproj.SuggestedBindingRedirects.cache
+C:\Users\Muham\Desktop\School Projecten\Level 4\reken machine - repository\reken machine\obj\Debug\MainWindow.g.cs
+C:\Users\Muham\Desktop\School Projecten\Level 4\reken machine - repository\reken machine\obj\Debug\App.g.cs
+C:\Users\Muham\Desktop\School Projecten\Level 4\reken machine - repository\reken machine\obj\Debug\Reken Machine_MarkupCompile.cache
+C:\Users\Muham\Desktop\School Projecten\Level 4\reken machine - repository\reken machine\obj\Debug\Reken Machine_MarkupCompile.lref
+C:\Users\Muham\Desktop\School Projecten\Level 4\reken machine - repository\reken machine\obj\Debug\MainWindow.baml
+C:\Users\Muham\Desktop\School Projecten\Level 4\reken machine - repository\reken machine\obj\Debug\Reken Machine.g.resources
+C:\Users\Muham\Desktop\School Projecten\Level 4\reken machine - repository\reken machine\obj\Debug\Reken_Machine.Properties.Resources.resources
+C:\Users\Muham\Desktop\School Projecten\Level 4\reken machine - repository\reken machine\obj\Debug\Reken Machine.csproj.GenerateResource.cache
+C:\Users\Muham\Desktop\School Projecten\Level 4\reken machine - repository\reken machine\obj\Debug\Reken Machine.csproj.CoreCompileInputs.cache
+C:\Users\Muham\Desktop\School Projecten\Level 4\reken machine - repository\reken machine\obj\Debug\Reken Machine.exe
+C:\Users\Muham\Desktop\School Projecten\Level 4\reken machine - repository\reken machine\obj\Debug\Reken Machine.pdb
